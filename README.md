@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=FFDD84&height=130&section=header&text=OhYeHyun's%20GitHub&fontColor=ffffff&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=egg&color=FFDD84&height=95&section=header&text=%20)
 
 <h2 align="center">🐣 반갑습니다, 오예현입니다! 🐣</h2>
 
@@ -25,4 +25,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=OhYeHyun&show_icons=true&count_private=true&theme=github_dark" height="150"/>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=egg&color=FFDD84&height=130&section=footer&text=%20)
+![footer](https://capsule-render.vercel.app/api?type=egg&color=FFDD84&height=95&section=footer&text=%20)
