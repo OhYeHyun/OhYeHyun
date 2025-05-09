@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tyulsjjava.tistory.com"><img src="https://img.shields.io/badge/tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://tyulsjjava.tistory.com"><img src="https://img.shields.io/badge/블로그 보러가기-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </p>
 
 <p align="center">
