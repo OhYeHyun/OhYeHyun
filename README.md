@@ -9,15 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://tyulsjjava.tistory.com"><img src="https://img.shields.io/badge/블로그 보러가기-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://tyulsjjava.tistory.com">
+    <img src="https://img.shields.io/badge/➡블로그 보러가기-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
